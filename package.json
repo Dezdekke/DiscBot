@@ -1,0 +1,16 @@
+{
+  "name": "PassBot",
+  "description": "PasswordBot for discord",
+  "version": "1.0.0",
+  "main": "PasswordBot.js",
+  "scripts": {
+    "start": "node PasswordBot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "engines": {
+    "node": "12.14.1",
+    "npm": "6.13.4"
+  }
+}
